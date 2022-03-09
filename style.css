@@ -145,15 +145,15 @@
 @media only screen and (max-width: 475px) {
 
     #welcome {
-        margin-top: 30px;
+        margin-top: 60px;
     }
 
     #paragrafo {
-        font-size: 30px;
+        font-size: 60px;
     }
 
     .scritta2 {
-        font-size: 23px;
+        font-size: 46px;
     }
     
     #btn-discord {
