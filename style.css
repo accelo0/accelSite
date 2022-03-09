@@ -127,6 +127,7 @@
     transition: 500ms;
     cursor: pointer;
     opacity: 50%;
+    
 }
 
 .text {
@@ -141,3 +142,25 @@
     opacity: 100%;
 }
 
+@media only screen and (max-width: 475px) {
+
+    #welcome {
+        margin-top: 30px;
+    }
+
+    #paragrafo {
+        font-size: 30px;
+    }
+
+    .scritta2 {
+        font-size: 23px;
+    }
+    
+    #btn-discord {
+        margin-top: 15px;
+    }
+
+    #btn-twitter {
+       margin-top: 15px;
+    }
+}
